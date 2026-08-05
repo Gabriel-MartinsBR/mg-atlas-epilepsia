@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Atlas interativo
 
-O arquivo `docs/atlas_epilepsia_mg.html` apresenta os resultados de forma interativa (mapas, gráficos e tabela filtrável por município). Pode ser visualizado localmente abrindo o arquivo no navegador, ou publicado via GitHub Pages.
+O arquivo `docs/index.html` apresenta os resultados de forma interativa (mapas, gráficos e tabela filtrável por município). Pode ser visualizado localmente abrindo o arquivo no navegador, ou publicado via GitHub Pages.
 
 ## Autor
 
