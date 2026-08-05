@@ -37,16 +37,14 @@ Identificar clusters espaciais de alta e baixa taxa de internação por epilepsi
 ## Como reproduzir
 
 ```bash
-# clonar o repositório
+
 git clone https://github.com/SEU_USUARIO/atlas-epilepsia-mg.git
 cd atlas-epilepsia-mg
 
-# criar e ativar ambiente virtual
 python -m venv venv
 venv\Scripts\activate      # Windows
 # source venv/bin/activate   # Linux/Mac
 
-# instalar dependências
 pip install -r requirements.txt
 
 # rodar os scripts na ordem: extração -> tratamento -> análise espacial
