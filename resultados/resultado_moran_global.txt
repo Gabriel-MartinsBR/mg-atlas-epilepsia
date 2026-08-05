@@ -1,0 +1,5 @@
+ÍNDICE DE MORAN GLOBAL - Taxa suavizada de internação por epilepsia/EME (MG, 2010-2022)
+Moran's I: 0.3408
+E[I] (esperado sob aleatoriedade): -0.0012
+p-valor (999 permutações): 0.0010
+z-score: 15.7018

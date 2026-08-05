@@ -1,0 +1,9 @@
+geopandas
+libpysal
+esda
+splot
+pysus
+geobr
+pandas
+numpy
+matplotlib

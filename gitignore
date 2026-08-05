@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Dados brutos / intermediários (regeneráveis pelos scripts)
+*.dbf
+*.dbc
+*.parquet
+*.gpkg
+*.shp
+*.shx
+*.prj
+*.cpg
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Config local
+.env
