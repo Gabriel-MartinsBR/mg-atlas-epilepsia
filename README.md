@@ -38,7 +38,7 @@ Identificar clusters espaciais de alta e baixa taxa de internação por epilepsi
 
 ```bash
 
-git clone https://github.com/SEU_USUARIO/atlas-epilepsia-mg.git
+git clone https://github.com/Gabriel-MartinsBR/atlas-epilepsia-mg.git
 cd atlas-epilepsia-mg
 
 python -m venv venv
@@ -56,4 +56,4 @@ O arquivo `docs/index.html` apresenta os resultados de forma interativa (mapas, 
 
 ## Autor
 
-Gabriel — estudante de Medicina, UFTM (Universidade Federal do Triângulo Mineiro)
+Gabriel, estudante de Medicina, UFTM (Universidade Federal do Triângulo Mineiro)
